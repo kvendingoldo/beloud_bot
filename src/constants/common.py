@@ -21,6 +21,6 @@ int2emoji = {
     10: '🔟'
 }
 
-#emoji2int = {value: key for (key, value) in int2emoji.items()}
+emoji2int = {value: key for (key, value) in int2emoji.items()}
 
 DB_TABLES = DBTables()
