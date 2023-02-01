@@ -1,0 +1,5 @@
+database:
+  url: sqlite:////Users/asharov/beloud.db
+
+log:
+  dir: ""
